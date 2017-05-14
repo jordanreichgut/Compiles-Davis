@@ -1,5 +1,6 @@
 COMPILES DAVIS
 15-112 Term Project by Jordan Reichgut
+Carnegie Mellon University
 Spring 2017
 
 Compiles Davis is a tool for jazz musicians that simulates improvisation. It randomly generates, prints out, and plays back a melody over a set of chord changes. The user can either choose from a list of 20 popular jazz standards whose changes are pre-programmed, or manually input the chord symbols.
