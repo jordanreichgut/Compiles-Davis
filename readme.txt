@@ -10,6 +10,8 @@ Compiles Davis makes use of Music21, an open source Python module developed by M
 
 Compiles Davis requires MuseScore and music21 to be installed in order to run properly. The music21 master folder must be in the same directory as the Python file using it.
 
+To run the program, open tp.py.
+
 DESIGN
 
 Compiles Davis is targeted toward jazz musicians. It helps them expand their vocabulary by generating catchy “licks” (musical phrases). Plagiarism is commonplace in jazz, and musicians quote each other in their solos all the time. Anyone who uses this tool is encouraged to memorize music it generates and incorporate it in their playing. 
