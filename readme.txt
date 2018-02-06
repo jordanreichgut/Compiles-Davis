@@ -7,13 +7,13 @@ VIDEO DEMO: https://youtu.be/kBjYYGLdfus
 
 Compiles Davis is a tool for jazz musicians that simulates improvisation. It randomly generates, prints out, and plays back melodies over chord changes. The user can either choose from a list of 20 jazz standards with pre-programmed changes or manually input the chords.
 
-The music opens in MuseScore (an open source music composition tool). Within MuseScore, the user can play back, edit, and save the music as a PDF.
+The sheet music opens in MuseScore, an open source music composition tool. Within MuseScore, the user can play back, edit, and save the music as a PDF.
 
-Compiles Davis utilizes Music21, an open source Python module developed by MIT for musician programmers. Learn more: http://web.mit.edu/music21/
+Compiles Davis utilizes Music21 (http://web.mit.edu/music21/), an open source Python module developed by MIT, as well as the standard Tkinter library.
 
-Compiles Davis requires MuseScore and Music21 to be installed in order to run properly. The Music21 master folder must be in the same directory as CompilesDavis.py.
+Compiles Davis requires MuseScore and Music21 to be installed in order to run properly. The “music21” master folder must be in the same directory as CompilesDavis.py.
 
-To use the program, open and run CompilesDavis.py.
+To use the program, run CompilesDavis.py.
 
 DESIGN
 
